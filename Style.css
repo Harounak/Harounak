@@ -1,0 +1,50 @@
+h1
+{
+	color: indianred;
+}
+
+body
+{
+    background: black;
+    padding: 30px;
+	box-sizing: border-box;
+}
+
+button{
+	-webkit-appearance:none;
+	border: 0px;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+Button.active{
+
+
+	background: black;
+	color: whitesmoke;
+}
+tab-content{
+	border: 1px solid;
+	display: none;
+}
+
+.mTop10{
+	margin-top: 10px;
+}
+
+#carte
+{
+
+	width: 800px;
+	margin: 0 auto;
+	background: whitesmoke;
+	text-align: center;
+	align-content: center;
+}
+
+ul li 
+{
+	list-style-type: none;
+}
+
+
